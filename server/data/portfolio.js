@@ -35,7 +35,7 @@ export const portfolio = {
     ],
     stats: [
       { value: '3', label: 'apps built' },
-      { value: '9', label: 'certifications' },
+      { value: '10', label: 'certifications' },
       { value: 'Dec ’26', label: 'available for internship' },
     ],
     focus: [
@@ -112,15 +112,16 @@ export const portfolio = {
   },
 
   certifications: [
-    { name: 'Microsoft Certified: Azure AI Fundamentals', issuer: 'Microsoft', badge: 'AI-900', year: 'Nov 2026', href: 'https://www.credly.com/users/yuki-emit/badges' },
-    { name: 'IT Specialist — Data Analytics', issuer: 'Certiport · Pearson · CertNexus', badge: 'ITS', year: 'Nov 2026', href: 'https://www.credly.com/users/yuki-emit/badges' },
-    { name: 'CCNA: Enterprise Networking, Security, and Automation', issuer: 'Cisco', badge: 'ENSA', year: 'Dec 2025', href: 'https://www.credly.com/users/yuki-emit/badges' },
-    { name: 'Linux Essentials', issuer: 'Cisco', badge: 'LNX', year: 'Nov 2025', href: 'https://www.credly.com/users/yuki-emit/badges' },
-    { name: 'CCNA: Switching, Routing, and Wireless Essentials', issuer: 'Cisco', badge: 'SRWE', year: 'Mar 2025', href: 'https://www.credly.com/users/yuki-emit/badges' },
-    { name: 'IT Specialist — Python', issuer: 'Certiport · Pearson VUE', badge: 'ITS', year: 'Feb 2025', href: 'https://www.credly.com/users/yuki-emit/badges' },
-    { name: 'Cisco Certified Support Technician — Networking', issuer: 'Cisco', badge: 'CCST', year: 'Feb 2025', href: 'https://www.credly.com/users/yuki-emit/badges' },
-    { name: 'CCNA: Introduction to Networks', issuer: 'Cisco', badge: 'ITN', year: 'Dec 2024', href: 'https://www.credly.com/users/yuki-emit/badges' },
-    { name: 'PMI Project Management Ready™', issuer: 'Project Management Institute', badge: 'PMI', year: 'Valid to 2031', href: 'https://www.credly.com/users/yuki-emit/badges' },
+    { name: 'Microsoft Certified: Azure AI Fundamentals', issuer: 'Microsoft', badge: 'AI-900', year: 'Nov 2026', href: 'https://www.credly.com/badges/965b3aa3-8062-48d2-ba7b-4f8e9eb0323e' },
+    { name: 'IT Specialist — Data Analytics', issuer: 'Certiport · Pearson · CertNexus', badge: 'ITS', year: 'Nov 2026', href: 'https://www.credly.com/badges/e70c415e-d64f-4540-894d-552084a1c7a9' },
+    { name: 'CCNA: Enterprise Networking, Security, and Automation', issuer: 'Cisco', badge: 'ENSA', year: 'Dec 2025', href: 'https://www.credly.com/badges/c33a8399-a72a-4e1d-89b8-1590e85a501c' },
+    { name: 'Linux Essentials', issuer: 'Cisco', badge: 'LNX', year: 'Nov 2025', href: 'https://www.credly.com/badges/a25f1029-7207-4620-89aa-e41a117228e7' },
+    { name: 'CCNA: Switching, Routing, and Wireless Essentials', issuer: 'Cisco', badge: 'SRWE', year: 'Mar 2025', href: 'https://www.credly.com/badges/8ab1d3ec-13d6-46c7-906b-5185e11351bb' },
+    { name: 'IT Specialist — Python', issuer: 'Certiport · Pearson VUE', badge: 'ITS', year: 'Feb 2025', href: 'https://www.credly.com/badges/91d892bf-4de0-46f9-8d6e-03bc83a166da' },
+    { name: 'Cisco Certified Support Technician — Networking', issuer: 'Cisco', badge: 'CCST', year: 'Feb 2025 · Lifetime', href: 'https://www.credly.com/badges/75cb5ba6-28b3-4163-a27d-5556d9119961' },
+    { name: 'CCNA: Introduction to Networks', issuer: 'Cisco', badge: 'ITN', year: 'Dec 2024', href: 'https://www.credly.com/badges/fce4bc7e-c74c-4bd1-bd8e-af20e02e9c7a' },
+    { name: 'CyberOps Associate', issuer: 'Cisco', badge: 'CBROPS', href: 'https://www.credly.com/badges/54d438fd-1059-4b47-9c5b-beee2e4c017e' },
+    { name: 'PMI Project Management Ready™', issuer: 'Project Management Institute', badge: 'PMI', year: 'Valid to 2031', href: 'https://www.credly.com/badges/f69b315f-1957-4b4c-aa7a-c226149cc092' },
   ],
 
   posts: [],
