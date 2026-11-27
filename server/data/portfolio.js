@@ -35,7 +35,7 @@ export const portfolio = {
     ],
     stats: [
       { value: '3', label: 'apps built' },
-      { value: '7', label: 'certifications' },
+      { value: '9', label: 'certifications' },
       { value: 'Dec ’26', label: 'available for internship' },
     ],
     focus: [
@@ -112,6 +112,8 @@ export const portfolio = {
   },
 
   certifications: [
+    { name: 'Microsoft Certified: Azure AI Fundamentals', issuer: 'Microsoft', badge: 'AI-900', year: 'Nov 2026', href: 'https://www.credly.com/users/yuki-emit/badges' },
+    { name: 'IT Specialist — Data Analytics', issuer: 'Certiport · Pearson · CertNexus', badge: 'ITS', year: 'Nov 2026', href: 'https://www.credly.com/users/yuki-emit/badges' },
     { name: 'CCNA: Enterprise Networking, Security, and Automation', issuer: 'Cisco', badge: 'ENSA', year: 'Dec 2025', href: '' },
     { name: 'Linux Essentials', issuer: 'Cisco', badge: 'LNX', year: 'Nov 2025', href: '' },
     { name: 'CCNA: Switching, Routing, and Wireless Essentials', issuer: 'Cisco', badge: 'SRWE', year: 'Mar 2025', href: '' },
